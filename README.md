@@ -3,7 +3,10 @@ senate-tenates
 
 Senators of Canada enjoy a tenure-like position: guaranteed job security, high income and authority over legislation. Here we investigate the lifetimes of Senators seats, and see if we can piece together any details. 
 
+### Data
 
+We have data from all 705 Senators, including the date their were appointed on, whom appointed them, 
+there final date in office (if observed) and some other variables. All data has been scrapped without consent from [Wikipedia](http://en.wikipedia.org/wiki/Lists_of_Canadian_senators).
 
 ### Some important facts:
 
