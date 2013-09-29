@@ -1,4 +1,13 @@
 senate-tenates
 ==============
 
-Investigating the political tenureship called the Senate of Canada
+Senators of Canada enjoy a tenure-like position: guaranteed job security, high income and authority over legislation. Here we investigate the lifetimes of Senators seats, and see if we can piece together any details. 
+
+
+
+### Some important facts:
+
+- Senators originally held their seats for life; however, under the British North America Act, 1965 (now known as the Constitution Act, 1965), members, save for those appointed prior to the change, may not sit in the Senate after reaching the age of 75.
+- A senator's seat automatically becomes vacant if he or she fails to attend the Senate for two consecutive parliamentary sessions. Furthermore, senators lose their seats if they are found guilty of treason, an indictable offence, or any "infamous crime"; are declared bankrupt or insolvent; or cease to be qualified.
+- The base annual salary of each senator, as of 2010, is $132,300 CAD; members may receive additional salaries in right of other offices they hold.
+-  Individuals must be both citizens of Canada and at least thirty years of age to be eligible for appointment to the Senate. Senators must also maintain residency in the provinces or territories for which they are appointed.
