@@ -1,0 +1,10 @@
+BC,http://en.wikipedia.org/wiki/List_of_British_Columbia_senators
+AB,http://en.wikipedia.org/wiki/List_of_Alberta_senators
+SK,http://en.wikipedia.org/wiki/List_of_Saskatchewan_senators
+MA,http://en.wikipedia.org/wiki/List_of_Manitoba_senators
+ON,http://en.wikipedia.org/wiki/List_of_Ontario_senators
+NB,http://en.wikipedia.org/wiki/List_of_New_Brunswick_senators
+PE,http://en.wikipedia.org/wiki/List_of_Prince_Edward_Island_senators
+NS,http://en.wikipedia.org/wiki/List_of_Nova_Scotia_senators
+NF,http://en.wikipedia.org/wiki/List_of_Newfoundland_and_Labrador_senators
+CT,http://en.wikipedia.org/wiki/List_of_Canadian_territorial_senators
