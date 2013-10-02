@@ -8,6 +8,7 @@ Senators of Canada enjoy a tenure-like position: guaranteed job security, high i
 We have data from all 705 Senators, including the date their were appointed on, whom appointed them, 
 there final date in office (if observed) and some other variables. All data has been scrapped without consent from [Wikipedia](http://en.wikipedia.org/wiki/Lists_of_Canadian_senators) and [parliments data source](http://www.parl.gc.ca/Parlinfo/lists/senators.aspx).
 
+
 ### Some important facts:
 
 - Senators originally held their seats for life; however, under the British North America Act, 1965 (now known as the Constitution Act, 1965), members, save for those appointed prior to the change, may not sit in the Senate after reaching the age of 75.
