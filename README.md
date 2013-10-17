@@ -17,6 +17,16 @@ there final date in office (if observed) and some other variables. All data has 
 -  Individuals must be both citizens of Canada and at least thirty years of age to be eligible for appointment to the Senate. Senators must also maintain residency in the provinces or territories for which they are appointed.
 
 
+### What you need to do
+
+Here's some things you can do:
+
+- Explore the senator dataset using survival analysis. Try partitioning on different Prime Ministers, politically parties. Any conclusions?
+- There is a great dataset, `dd.csv`, that contains the all political regimes from the past 60 years. This is a really cool dataset that survival analysis can be applied to.
+- Help other setup R or Python, or help with understanding anaylsis. 
+- The senator data is missing important columns like `age they were assigned`, or `gender`, or `financial income`. Can we scrape these?
+
+
 ### Tools 
 
  - **R:** (survival)[http://cran.r-project.org/web/packages/survival/index.html] is a great and well-maintained survival package in R. See the R-script in the repo for an example. 
