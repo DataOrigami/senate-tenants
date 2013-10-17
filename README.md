@@ -1,4 +1,4 @@
-senate-tenates
+senate-tenants
 ==============
 
 Senators of Canada enjoy a tenure-like position: guaranteed job security, high income and authority over legislation. Here we investigate the lifetimes of Senators seats, and see if we can piece together any details. 
