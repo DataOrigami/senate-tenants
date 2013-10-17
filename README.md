@@ -1,4 +1,4 @@
-senate-tenates
+senate-tenants
 ==============
 
 Senators of Canada enjoy a tenure-like position: guaranteed job security, high income and authority over legislation. Here we investigate the lifetimes of Senators seats, and see if we can piece together any details. 
@@ -23,3 +23,4 @@ there final date in office (if observed) and some other variables. All data has 
  - **Python:** (lifelines)[https://github.com/CamDavidsonPilon/lifelines] is a Python survival analysis library under current development. It's reliable in some areas but buggy in others. There is a tutorial and intro to Survival Analysis included with it.
  - **Matlab:** (this code looks pretty good)[http://www.mathworks.com/matlabcentral/fileexchange/41325-kaplan-meier-for-right-andor-left-andor-interval-censored-data/content/KM/KM.m] totally untested though.
 
+### [Slides From October 2013 Meetup](https://docs.google.com/presentation/d/14LYZU9Z3SXJrx5Yz9smvMsee5I_Is5o1vb_-OpmQhMs/edit?usp=sharing)
